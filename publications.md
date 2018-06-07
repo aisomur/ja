@@ -1,8 +1,10 @@
 ---
 layout: page
-title: 原著論文
+title: 
 permalink: /publications/
 ---
+
+### 原著論文
 
 22. "Reconstitution of an ultradian oscillator in mammalian cells by a synthetic biology approach"
 M. Santorelli, †D. Perna, †A. Isomura, I. Garzilli, F. Annunziata, L. Postiglione, B. Tumaini, R. Kageyama, *D. di Bernardo

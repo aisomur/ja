@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Profile
+title: 
 permalink: /about/
 ---
 
 ### 勤務地
 
-[Ryoichiro Kageyama Lab.](http://www.infront.kyoto-u.ac.jp/ex_ivr/Lab/Kageyama/index.html)
-
 京都大学 ウイルス・再生医科学研究所
 
-増殖制御システム分野 影山研究室
+[増殖制御システム分野 影山研究室](http://www.infront.kyoto-u.ac.jp/ex_ivr/Lab/Kageyama/index.html)
 
 〒606-8507 京都市左京区聖護院川原町53
 
