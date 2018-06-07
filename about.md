@@ -3,24 +3,21 @@ layout: page
 title: Profile
 permalink: /about/
 ---
-Akihiro Isomura received his B.S. degree mainly in Physics from Kyoto University (2003) and Dr. of Science degree from Kyoto University (2009). After one year stay at Institute for Integrate Cell-Material Sciences (iCeMS), Kyoto University, he joined Ryoichiro Kageyama group as a postdoc. Since 2015, he is working as a PRESTO researcher.
 
-His major research interest is nonlinear dynamics in biological systems. Presently, he is studying ultradian oscillators from the view point of nonlinear physics and optogenetic tools for the spatiotemporal control of gene expression dynamics.
+### 勤務地
 
-### Current Address
-[Ryoichiro Kageyama Lab.](http://www.infront.kyoto-u.ac.jp/ex_ivr/Lab/Kageyama/index_English.html)
+[Ryoichiro Kageyama Lab.](http://www.infront.kyoto-u.ac.jp/ex_ivr/Lab/Kageyama/index.html)
 
-Institute for Frontier Life and Medical Sciences,
+京都大学 ウイルス・再生医科学研究所
 
-Kyoto University
+増殖制御システム分野 影山研究室
 
-Shogoin-Kawahara, Sakyo-ku,
-Kyoto 606-8507, Japan.
+〒606-8507 京都市左京区聖護院川原町53
 
-Tel: +81-75-751-4013
+Tel: 075-751-4013
 
-Fax: +81-75-751-4807
+Fax: 075-751-4807 
 
-### Contact Me
+### 連絡先
 
 [aisomura@infront.kyoto-u.ac.jp](mailto:aisomura@infront.kyoto-u.ac.jp)
