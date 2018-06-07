@@ -29,9 +29,7 @@ _Scientific reports_ **7,** 7757 (2017).
 17. "Optogenetic perturbation and bioluminescence imaging to analyze cell-to-cell transfer of
 oscillatory information”,
 *A. Isomura, F. Ogushi, H. Kori, *R. Kageyama,
-_Genes Dev._ **31,** 524-535 (2017).
-
-Highlighted in _Nat. Chem. Biol._ **13,** 569 (2017).
+_Genes Dev._ **31,** 524-535 (2017). (Highlighted in _Nat. Chem. Biol._ **13,** 569 (2017).)
 
 16. "Oscillatory control of Delta-like1 in cell interactions regulates dynamic gene expression and
 tissue morphogenesis”,
