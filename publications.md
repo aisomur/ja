@@ -24,12 +24,14 @@ _Curr. Opin. Cell Biol._ **49,** 9-15 (2017).
 
 18. "Dynamics of spatiotemporal line defects and chaos control in complex excitable systems"
 *M Hörning, F Blanchard, A Isomura, K Yoshikawa
-_Scientific reports_ 7 (1), 7757
+_Scientific reports_ **7,** 7757 (2017).
 
 17. "Optogenetic perturbation and bioluminescence imaging to analyze cell-to-cell transfer of
 oscillatory information”,
 *A. Isomura, F. Ogushi, H. Kori, *R. Kageyama,
-_Genes Dev._ 31, 524-535 (2017).
+_Genes Dev._ **31,** 524-535 (2017).
+
+Highlighted in _Nat. Chem. Biol._ **13,** 569 (2017).
 
 16. "Oscillatory control of Delta-like1 in cell interactions regulates dynamic gene expression and
 tissue morphogenesis”,
@@ -80,11 +82,11 @@ _Phys. Rev. E._ 79, 026218 (2009).
 6. "Eliminating Spiral Waves Pinned to an Anatomical Obstacle in Cardiac Myocytes by High-
 Frequency Stimuli”,
 A. Isomura, M. Hörning, K. Agladze, *K. Yoshikawa,
-_Phys. Rev. E_ 78, 066216 (2008).
+_Phys. Rev. E_ **78,** 066216 (2008).
 
 5. "Contraction-induced cluster formation in cardiac cell culture”,
 T. Harada, A. Isomura, and *K. Yoshikawa,
-_Physica D_ 237, 2787-2796 (2008).
+_Physica D_ **237,** 2787-2796 (2008).
 
 4. "Wave Emission from Heterogeneities Opens a Way to Controlling Chaos in the Heart",
 A. Pumir, V. Nikolski, M. Hörning, A. Isomura, K. Agladze, K. Yoshikawa, R. Gilmour, E. Bodenschatz and V. Krinsky,
@@ -100,6 +102,6 @@ _Chem. Phys. Lett._ **429,** 321-325 (2006).
 
 1. "Optical Levitation of a Droplet under Linear Increase of Gravitational Acceleration",
 M. I. Kohira, A. Isomura, N. Magome, S. Mukai and K. Yoshikawa,
-_Chem. Phys. Lett._ 414, 389-392 (2005).
+_Chem. Phys. Lett._ **414,** 389-392 (2005).
 
 
